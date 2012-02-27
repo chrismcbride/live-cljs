@@ -2,6 +2,10 @@
   :description "FIXME: write this!"
   :dependencies [[org.clojure/clojure "1.3.0"]
                  [noir "1.3.0-alpha7"]
+                 [crate "0.1.0-SNAPSHOT"]
+                 [jayq "0.1.0-SNAPSHOT"]
+                 [fetch "0.1.0-SNAPSHOT"]
+                 [waltz "0.1.0-SNAPSHOT"]
                  [congomongo "0.1.7"]
                  [org.clojure/clojurescript "0.0-971"]
                  [ibdknox/clojail "0.5.2"]
